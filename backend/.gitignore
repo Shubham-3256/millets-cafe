@@ -1,0 +1,14 @@
+# Node
+node_modules/
+npm-debug.log*
+.env
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+
+# Uploads (optional, you don’t want user-uploaded images in repo)
+uploads/
